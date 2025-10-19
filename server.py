@@ -26,7 +26,7 @@ last_link_msg = {}
 
 # --- helpers ---
 # === ACCESS CONTROL (постоянные + динамические) ===
-BASE_WHITELIST = {958579430, 8051914154, 2095741832, 7167283179}
+BASE_WHITELIST = {958579430, 8051914154, 2095741832, 7167283179, 959967956}
 
 WHITELIST_FILE = Path("whitelist.json")
 
